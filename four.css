@@ -1,0 +1,52 @@
+#container {
+border-bottom: 1px solid lightgrey;
+padding-bottom: 40px;
+}
+
+#pages {
+  border-top: 1px solid lightgrey;
+  padding-top: 40px;
+  margin: 0 auto;
+
+}
+
+.inline {
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-top: auto;
+}
+
+.nice {
+  font-size: 25px;
+  color: grey;
+}
+
+.survol:hover {
+  color: limegreen;
+}
+
+body {
+  padding-top: 70px;
+  font-family: 'Muli', sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h1 {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 40px;
+}
+
+ ul {
+   margin-left: 450px;
+ }
+
+
+
+li {
+  display: inline-block;
+  border: 1px solid lightgrey;
+  text-align: center;
+  padding: 10px;
+}
